@@ -1,3 +1,2 @@
 # git_test
-TOP
-Hello Odin!
+The Odin Project. Hello Odin!
